@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Staff {
+public class Staff extends Person{
+
+    private Integer StaffID ;
+
 }

@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class Person {
+public class Person {
+
+    private String Name ;
+    private  Integer Age ;
+
+
+
+
 }

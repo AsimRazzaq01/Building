@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class StanderdElevator {
+public class StandardElevator extends Elevator {
+
+    // 70 % request
+    // Max capacity = 10 passengers
+
+
+
 }

@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Patient {
+public class Patient extends Person{
+
+    private Integer PatientNumber;
+
 }
